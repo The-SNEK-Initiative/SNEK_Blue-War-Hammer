@@ -1,5 +1,4 @@
-# SNEK Blue War Hammer - Windows Defender Exploitation Research Tool
-
+# SNEK Blue War Hammer - Vulnerability Documentation & Reimplementation - SNEK Blue War Hammer
 Professional proof-of-concept demonstrating Windows Defender exploitation techniques. This project demonstrates security research concepts and is provided for educational purposes only.
 
 Based on public vulnerability research by [Nightmare-Eclipse](https://github.com/Nightmare-Eclipse/BlueHammer).
